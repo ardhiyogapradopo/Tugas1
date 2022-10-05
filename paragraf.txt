@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<title>Cerita Pendek by dipo</title>
+<p>Cerita dongeng:</p>
+<br>Si Kancil dan Buaya
+
+<p>
+
+Si Kancil dan Buaya adalah salah satu judul cerita dongeng pendek yang sering dibacakan menjelang tidur. Dongeng ini mengisahkan tentang kancil yang sangat cerdik, ia terkenal baik karena sering membantu sesama hewan di hutan. Kancil begitu disegani oleh hewan-hewan lainnya. Pada suatu hari, ia merasa sangat lapar, tapi untuk mendapatkan makanan, ia harus menyebrangi sungai terlebih dahulu. Karena kecerdikannya itu, ia pun memberanikan diri menghampiri buaya.
+
+Di hadapan buaya tersebut, mereka membuat kesepatakan, bawah ia akan membawa berita baik dari raja hutan untuk memberikan daging kepada buaya-buaya tersebut. Merasa percaya dengan ucapan si kancil, buaya pun menyepakatinya dan bersedia berbaris dari tepi sungai sampai ke ujung hingga membentuk jembatan. Dengan bantuan para buaya tersebut, kancil pun akhirnya berhasil menyebarangi sungai itu. Namun, sesampainya di sebrang sungai, kancil langsung mengucapkan terima kasih karena telah membantunya, dan langsung melarikan diri. Hal tersebut pun membuat para buaya kesal karena merasa telah dibohongi.
+
+Dari cerita dongeng pendek ini, orangtua bisa mengajarkan kepada anak, bahwa kecerdikan seseorang tidak boleh disalahgunakan agar tidak membuat orang lain merasa dirugikan.
+</p>
+
+
+</p>
+</body>
+</html>

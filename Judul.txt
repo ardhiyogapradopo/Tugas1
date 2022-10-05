@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<title>Menu</title>
+<h1>Makanan</h1>
+<p>Nasi Goreng, Mie Rebus, Ayam Geprek, Nasi liwet</p>
+<hr>
+
+<h2>Minuman</h2>
+<p>Esteh, Jus, Susu Soda, Es Campur, Es Teler.</p>
+<hr>
+
+<h2>Cemilan</h2>
+<p>Kentang goreng, Sosis Bakar, Tahu Bulat</p>
+
+</body>
+</html>
